@@ -1,0 +1,14 @@
+@article{Mendonça_2021,
+doi = {10.1088/1475-7516/2021/11/034},
+url = {https://dx.doi.org/10.1088/1475-7516/2021/11/034},
+year = {2021},
+month = {nov},
+publisher = {IOP Publishing},
+volume = {2021},
+number = {11},
+pages = {034},
+author = {I.E.C.R. Mendonça and Kamal Bora and R.F.L. Holanda and Shantanu Desai and S.H. Pereira},
+title = {A search for the  variation  of speed of light using galaxy cluster gas mass fraction measurements},
+journal = {Journal of Cosmology and Astroparticle Physics},
+abstract = {In this paper, we implement a new   method to test the invariance of the speed of light (c)  as a function of redshift, by combining the measurements of galaxy cluster gas mass fraction, H(z)  from cosmic chronometers, and  Type-Ia supernovae (SNe Ia). In our analyses, we consider both  a  constant depletion factor (which corresponds to the ratio by which the cluster gas mass fraction is depleted with respect to the universal baryonic mean) and one  varying with redshift. We also consider  the influence of different H 0 estimates on our results. We look for a variation of  c, given by c(z) = c 0(1+c 1 z). We find a degeneracy between our final results on c variation and the assumptions on the gas mass fraction depletion factor. Most of our analyses  indicate negligible variation of the speed of light.}
+}
